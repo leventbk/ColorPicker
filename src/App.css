@@ -2,13 +2,18 @@ html, body {
   margin: 0;
   height: 100%;
 }
-
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
 body {
   background-color: #ffffff;
   font-family: Helvetica, Arial, sans-serif;
   text-align: center;
 }
-
+App-logo {
+  size: 250pt;
+}
 #app {
   position: relative;
   height: 100%;
@@ -33,6 +38,7 @@ h1, h2 {
   margin-left: 5%;
   margin-right: 5%;
 }
+
 
 button {
   border-radius: 8px;
